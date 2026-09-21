@@ -14,8 +14,9 @@ I'm currently learning **Python & AI** through Link Academy, and documenting my 
 - Deepening my Python & AI skills through Link Academy's course
 
 **Repos to check out**
-- [Data-Management-and-Storage-with-Python](https://github.com/cristianacostache44/Data-Management-and-Storage-with-Python) — exercises from my Python course
-- [Git-and-Github](https://github.com/cristianacostache44/Git-and-Github) — testing and learning Git
-- [Comenzi-Git](https://github.com/cristianacostache44/Comenzi-Git) — Git command reference
+- [Data-Management-and-Storage-with-Python](https://github.com/cristianacostache44/Data-Management-and-Storage-with-Python) - exercises from my Python course
+- [Git-and-Github](https://github.com/cristianacostache44/Git-and-Github) - testing and learning Git
+- [Comenzi-Git](https://github.com/cristianacostache44/Comenzi-Git) - Git command reference
+- [Machine-Learning](https://github.com/cristianacostache44/Machine-Learning) - introduction in machine learning
 
 📫 Reach me at cristianacostache44@gmail.com
